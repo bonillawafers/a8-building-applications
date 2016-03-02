@@ -1,6 +1,6 @@
 # a8-building-applications
 
-shinyapps.io project link: http://127.0.0.1:3957/
+shinyapps.io project link: 127.0.0.1:3957
 
 Submission
 ----------
